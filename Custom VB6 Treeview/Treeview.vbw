@@ -1,0 +1,7 @@
+Form1 = 72, 72, 486, 424, Z, 48, 48, 469, 400, C
+mSubclass = -8, 121, 511, 418, C
+mTreeview = 96, 96, 484, 448, C
+cToolTip = 0, 0, 0, 0, C
+cSubclass = 0, 0, 0, 0, C
+mPaint = 24, 24, 413, 376, C
+icTreeview1 = 24, 24, 413, 376, C, 48, 48, 437, 400, C
